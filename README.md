@@ -1,1 +1,4 @@
-# hello-wrold
+#include<stdio.h> {
+    int main() ;
+    return 0 ;
+    }
